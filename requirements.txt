@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+joblib
+scikit-lern
+streamlit-option-menu
